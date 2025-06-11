@@ -1,0 +1,111 @@
+*{
+    padding:0%;
+    margin: 0%;
+}
+.nav-bar{
+    background-color:#3d82c0;
+    text-align: center;
+    text-decoration: none;
+    text-size-adjust: 10px;
+    margin: 20px 20px;
+    padding: 20px;
+    
+}
+.home , .about , .all{
+    margin-right: 250px;
+    font-size: 25px;
+    text-decoration: none;
+color: black;
+
+}
+.feq{
+    font-size: 25px;
+    text-decoration: none;
+    color: black;
+}
+
+.logo{
+    margin-left: 650px;
+}
+.swayam-logo{
+    width: 200px;
+}
+.search{
+    margin-left: 400px;
+    text-align: center;
+   height: 40px;
+    width: 750px ;
+    border-radius: 5px;
+   font-style: bold;
+  margin-top: 15px;
+}
+.why-swayam{
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+.why-swayam-text{
+    font-size: 40px;
+}
+.why-swayam-grid{
+    display: grid;
+    grid-template-columns:1fr 1fr;
+    margin:0 auto;
+
+}
+.one{
+    background-color: red;
+}
+
+.universite{
+    width: 100%;
+   
+}
+.free-course, .self-paced, .earn-certifications, .get-university{
+   border-style: outset;
+   width: 88%;
+   margin: 5px;
+   padding:35px;
+   background-color: antiquewhite;
+}
+.self-paced{
+    background-color: rgb(186, 226, 130);
+}
+.earn-certifications{
+    background-color: rgb(140, 171, 230);
+}
+.get-university{
+    background-color: rgb(215, 136, 162);
+}
+
+.explore-course{
+    font-size: 30px;
+    padding: 20px;
+
+}
+.explore{
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+    border-color: rgb(88, 88, 88);
+  border-style: solid;
+    margin:0 auto;
+}
+.explore-img{
+   background-position: 0%;
+}
+.show-all{
+    margin-left: 560px;
+    width: 250px;
+    height: 50px;
+    background-color: brown;
+    margin-top: 25px;
+    
+}
+.show-all a{
+    text-decoration: none;
+    color: aliceblue;
+
+}
+.footer{
+text-align: center;
+margin-top: 20px;
+}
